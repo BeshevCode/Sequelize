@@ -2,7 +2,7 @@
 
 The application covers all CRUD operations and allows users to store tv shows and movies with their directors in a MySQL database.
 
-You can choose to add either movies or tv shows. Examples of how to use the application:
+Users can choose to add either movies or tv shows. Examples of how to use the application:
 
 
 node src/app.js --library --movie --add --title <movieTitle> --actor <movieActor> (--director <movieDirector>)   <!-- Adding movie title, actor(optional) and director to the movie library on the database. -->
